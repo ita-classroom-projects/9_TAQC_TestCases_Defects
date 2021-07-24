@@ -1,7 +1,7 @@
 ---
 name: Test Case
 about: Describe this issue template's purpose here.
-title: "[Test]"
+title: "[Fuctionality]"
 labels: Test
 assignees: ''
 
