@@ -2,7 +2,7 @@
 
 ## Suppose you need to test OpenCart application (http://taqc-opencart.epizy.com)
 
-1.  Write test cases to verify functionalyties of
+###1.  Write test cases to verify functionalyties of
   * Registration
   * Login
   * Shopping Card 
@@ -11,4 +11,4 @@
 
 *For all input fields you should check valid and invalid data*
 
-1. Report all founded issues
+###2. Report all issues found
