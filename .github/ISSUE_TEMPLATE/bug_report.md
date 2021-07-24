@@ -1,38 +1,44 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: '[Affected functionality] Clear and concise summary, e.g. "[Card] User cannot
+  change quantity of added product'
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Environment:** OS, browser, it's version, device (for mobile devices).
+**Reproducible:** always, rarely, sometimes etc.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Preconditions**
+A clear and concise description of actions to be done before the start of the bug reproducing (to make bug reproducing possible). E.g.:
+"Create an item in the database using SQL query:
+INSERT INTO table1 (column1, column2)
+VALUES (value1, value2);"
+
+**Steps to reproduce**
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
+**Actual result**
+A clear and concise description of what happened (displayed, not displayed etc.)
+Attached bug screenshots or video recorded.
+
+**Expected result**
 A clear and concise description of what you expected to happen.
+Attached screenshots or mock-ups if available.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Postconditions**
+A clear and concise description of actions to be done after bug reproducing. E.g.:
+"Delete created item from database using SQL query:
+DELETE FROM table1
+WHERE id=<item1_id>;"
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**User story and test case links**
+E.g.: "User story #100
+Test case #101"
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Labels to be added**
+"Bug", Priority ("pri: "), Severity ("severity:"), Type ("UI, "Functional"), "API" (for back-end bugs).
