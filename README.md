@@ -2,7 +2,7 @@
 
 ## Suppose you need to test OpenCart application (http://taqc-opencart.epizy.com)
 
-### 1.  Write test cases to verify functionalyties of
+### 1.  Write test cases to verify functionalities of
   * Registration
   * Login
   * Shopping Card 
