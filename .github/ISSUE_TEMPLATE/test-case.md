@@ -1,7 +1,7 @@
 ---
 name: Test Case
 about: Describe this issue template's purpose here.
-title: "[Fuctionality]"
+title: ''
 labels: Test
 assignees: ''
 
@@ -23,16 +23,13 @@ Steps to be fulfilled before test:
 3. Open ...
 
 **Test Cases**
-
-
-**Test Cases**
-|      S#     |    Action   |  Test Data  | Expected Result | Actual Result |     P/F     |  Automated  |
-|:-----------:|:-----------:|:-----------:|:---------------:|:-------------:|:-----------:|:-----------:|
-|    <br>     |    <br>     |    <br>     |      <br>       |     <br>      |    <br>     |    <br>     |
-|    <br>     |    <br>     |    <br>     |      <br>       |     <br>      |    <br>     |    <br>     |
-|    <br>     |    <br>     |    <br>     |      <br>       |     <br>      |    <br>     |    <br>     |
-|    <br>     |    <br>     |    <br>     |      <br>       |     <br>      |    <br>     |    <br>     |
-|    <br>     |    <br>     |    <br>     |      <br>       |     <br>      |    <br>     |    <br>     |
+|      S#     |    Action   |  Test Data  | Expected Result |  Automated  |
+|:-----------:|:-----------:|:-----------:|:-----------------:|:-------------:|
+|    <br>     |    <br>     |    <br>      |       <br>          |      <br>      |    
+|    <br>     |    <br>     |    <br>      |        <br>         |      <br>      |    
+|    <br>     |    <br>     |    <br>      |        <br>         |      <br>      |    
+|    <br>     |    <br>     |    <br>      |        <br>         |      <br>      |    
+|    <br>     |    <br>     |    <br>      |        <br>         |      <br>      |    
 
 
 **Screenshots**
